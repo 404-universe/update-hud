@@ -1,0 +1,6 @@
+[package]
+name = "update-hud"
+version = "0.1.0"
+authors = ["andy <andrewsadler122@gmail.com>"]
+
+[dependencies]
